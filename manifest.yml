@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: TEF-O2-Chatbot
+  host: TEF-chatbot
+  disk_quota: 1024M
